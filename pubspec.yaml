@@ -1,7 +1,7 @@
 name: sensors
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mrYasinHamidi/Sensors
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
